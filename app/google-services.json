@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "56186345586",
+    "firebase_url": "https://digitallearning-a581a.firebaseio.com",
+    "project_id": "digitallearning-a581a",
+    "storage_bucket": "digitallearning-a581a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56186345586:android:25f59c6c105eecbbaacaeb",
+        "android_client_info": {
+          "package_name": "com.farhan.digitallearning"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "56186345586-ffej60rmebil716id8394qno6jtvnsmq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.farhan.digitallearning",
+            "certificate_hash": "be206116ae64fa0ddd610268770ca91b63961335"
+          }
+        },
+        {
+          "client_id": "56186345586-iq24g4tod1l7l1ig8m9d92ae2p33r51k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANDLos6YoZT_nNtCjiWuqoVX4tIVfU3ss"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "56186345586-iq24g4tod1l7l1ig8m9d92ae2p33r51k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
